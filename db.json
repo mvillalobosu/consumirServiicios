@@ -1,0 +1,57 @@
+{
+  "users":[
+    { 
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "image": "https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Simbolo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "image": "https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Simbolo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "image": "https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Simbolo.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "Este es un ejemplo del cuerpo del post 1",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "Este es un ejemplo del cuerpo del post 1",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "Este es un ejemplo del cuerpo del post 1",
+      "userId": 1,
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+} 
